@@ -10,7 +10,7 @@ The tools that I use: \
 \
 Contact: \
 Email: santi@taweesamarn.com \
-LinkedIn: https://www.linkedin.com/in/santitaweesamarn/ \
+LinkedIn: https://www.linkedin.com/in/santitaweesamarn/
 
 
 
