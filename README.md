@@ -9,7 +9,9 @@ The tools that I use: \
 🐋 Docker to streamline the migration of data ecosystems regardless of the environment. \
 \
 Contact: \
-santi@taweesamarn.com
+Email: santi@taweesamarn.com \
+LinkedIn: https://www.linkedin.com/in/santitaweesamarn/ \
+
 
 
 <!--
