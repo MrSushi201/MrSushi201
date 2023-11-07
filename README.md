@@ -1,19 +1,18 @@
 ### Hello World!👋 \
 I am a Python Developer based in Gothenburg, Sweden.
-Currently, I work as a Data Engineer/Analyst for a consultancy company - Academic Work. \
-\
+Currently, I work as a Data Engineer/Analyst for a consultancy company - Academic Work. 
+
 The tools that I use: \
 🐍 Python is my go-to programming language. \
 🐼 Pandas and 🐻‍❄️ Polars for data manipulation and data analysis. \
 📁 SQL to work with databases. \
 🌊 Seaborn and 📊 Matplotlib for data visualization. \
-🐋 Docker to streamline the migration of data ecosystems regardless of the environment. \
-\
+🐋 Docker to streamline the migration of data ecosystems regardless of the environment. 
+
 Contact: \
 Email: santi@taweesamarn.com \
-LinkedIn: https://www.linkedin.com/in/santitaweesamarn/
-
-[embed]https://github.com/MrSushi201/MrSushi201/blob/main/santi_taweesamarn_CV_2023_english.pdf[/embed]
+LinkedIn: https://www.linkedin.com/in/santitaweesamarn/ \
+CV: https://github.com/MrSushi201/MrSushi201/blob/main/santi_taweesamarn_CV_2023_english.pdf
 
 <!--
 **MrSushi201/MrSushi201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
