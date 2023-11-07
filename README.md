@@ -13,7 +13,7 @@ Contact: \
 Email: santi@taweesamarn.com \
 LinkedIn: https://www.linkedin.com/in/santitaweesamarn/
 
-
+[embed]https://github.com/MrSushi201/MrSushi201/blob/main/santi_taweesamarn_CV_2023_english.pdf[/embed]
 
 <!--
 **MrSushi201/MrSushi201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
