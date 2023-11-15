@@ -4,7 +4,7 @@ Currently, I work as a Data Engineer/Analyst for a consultancy company - Academi
 
 The tools that I use: \
 🐍 Python is my go-to programming language. \
-🐼 Pandas and 🐻‍❄️ Polars for data manipulation and data analysis. \
+🐼 Pandas for data manipulation and data analysis. \
 📁 SQL to work with databases. \
 🌊 Seaborn and 📊 Matplotlib for data visualization. \
 🐋 Docker to streamline the migration of data ecosystems regardless of the environment. 
