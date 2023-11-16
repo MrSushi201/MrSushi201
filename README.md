@@ -1,5 +1,5 @@
 ### Hello World!👋 
-I am a Python Programmer based in Gothenburg, Sweden. \
+I am a Python Data Engineer based in Gothenburg, Sweden. \
 Currently, I work as a Data Engineer/Analyst for a consultancy company - Academic Work. 
 
 The tools that I use: \
