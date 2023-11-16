@@ -1,5 +1,5 @@
 ### Hello World!👋 \
-I am a Python Programmer based in Gothenburg, Sweden.
+I am a Python Programmer based in Gothenburg, Sweden. \
 Currently, I work as a Data Engineer/Analyst for a consultancy company - Academic Work. 
 
 The tools that I use: \
@@ -7,7 +7,7 @@ The tools that I use: \
 🐼 Pandas for data manipulation and data analysis. \
 📁 SQL to work with databases. \
 🌊 Seaborn and 📊 Matplotlib for data visualization. \
-🐋 Docker to streamline the migration of data ecosystems regardless of the environment. 
+📦 And other libraries and packages to get my scripts working... 
 
 Contact: \
 Email: santi@taweesamarn.com \
