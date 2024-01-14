@@ -1,6 +1,8 @@
 ### Hello World!👋 
-I am a Python Data Engineer based in Gothenburg, Sweden. \
-Currently, I work as a Data Engineer/Analyst for a consultancy company - Academic Work. 
+
+I am an engineer working at Volvo Cars in Gothenburg, Sweden. \
+Currently, I specialize in Product Development, more specifically in (Design) Process Development. \
+I use GitHub to upload my projects and materials related to Python Programming, which is one of my hobbies. \
 
 The tools that I use: \
 🐍 Python is my go-to programming language. \
