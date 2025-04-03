@@ -1,6 +1,6 @@
 ### Hello World!👋 
 
-I am an engineer working at Volvo Cars in Gothenburg, Sweden. \
+I am an Improvement Specialist working at Volvo Cars in Gothenburg, Sweden. \
 Currently, I specialize in Product Development, more specifically in (Design) Process Development. \
 I use GitHub to upload my projects and materials related to Python Programming, which is one of my hobbies. 
 
