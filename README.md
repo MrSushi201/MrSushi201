@@ -8,7 +8,6 @@ The tools that I use: \
 🐍 Python is my go-to programming language. \
 🐼 Pandas for data manipulation and data analysis. \
 📁 SQL to work with databases. \
-🌊 Seaborn and 📊 Matplotlib for data visualization. \
 📦 And other libraries and packages to get my scripts working... 
 
 Contact: \
